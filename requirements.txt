@@ -1,0 +1,8 @@
+gradio==3.50.2
+moviepy==1.0.3
+assemblyai==0.15.1
+deep-translator==1.9.2
+pysrt==1.1.2
+gTTS==2.3.2
+pydub==0.25.1
+ffmpeg-python==0.2.0
